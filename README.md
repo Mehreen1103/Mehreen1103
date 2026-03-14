@@ -56,8 +56,8 @@ Currently focusing on:
 
 ## 🤝 Let’s Connect
 <p>
-<a href="https://www.linkedin.com/in/mehreenrahman20/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:mehreenrahmancuet@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mehreen-r-11ba97227/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:mehreen.rahman03@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
