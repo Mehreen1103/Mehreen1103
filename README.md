@@ -317,7 +317,6 @@ An end-to-end ML pipeline predicting telecom customer churn, served in real time
 <img src="https://raw.githubusercontent.com/Mehreen1103/Mehreen1103/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> This requires the [snake-generation GitHub Action](https://github.com/Platane/snk) set up on a repo named exactly `Mehreen1103` (a repo matching your username) for the SVG to generate and render.
 
 <div align="center">
 
