@@ -241,7 +241,7 @@ An end-to-end ML pipeline predicting telecom customer churn, served in real time
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-</div>
+<!-- </div>
 
 ## Publications
 
@@ -252,7 +252,7 @@ An end-to-end ML pipeline predicting telecom customer churn, served in real time
 | Hate and Hope Speech Detection in Arabic Social Media Content using Transformer | ArabicNLP 2025 (MAHED Shared Task) |
 | Hybrid Embedding–LLM Architectures for Taxonomy Discovery | LLMs4OL 2025 Challenge (ISWC) |
 
-<div align="center">
+<div align="center"> -->
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -278,16 +278,16 @@ An end-to-end ML pipeline predicting telecom customer churn, served in real time
 
 </div>
 
-## GitHub Analytics
 
-<div align="center">
+
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mehreen1103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehreen1103&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehreen1103&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Mehreen1103&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
