@@ -21,7 +21,7 @@
 
 I am an **AI Research Engineer** and CSE graduate specializing in production Generative AI systems, stateful agentic workflows, and Natural Language Processing (NLP) research.
 
-*  **Current Role:** AI Research Engineer at **Eagle3D Streaming** — engineering automated video dubbing systems (**Whisper + F5-TTS + FastAPI**) and NL-to-MongoDB query engines.
+* **Current Role:** AI Research Engineer at **Eagle3D Streaming**, engineering automated video dubbing systems (Whisper + F5-TTS + FastAPI) and NL-to-MongoDB query engines.
 * **Research Focus:** Applied research in NLP and Large Language Models (LLMs), focusing on low-resource language processing and model reliability.
 
 ---
@@ -51,17 +51,22 @@ I am an **AI Research Engineer** and CSE graduate specializing in production Gen
 
 ---
 
-##  Research & Publications
+## Research & Publications
 
 My research explores **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a focus on evaluation frameworks, text classification, and low-resource language processing.
 
- **Explore my published work on [Google Scholar](https://scholar.google.com/citations?user=AdNVyPgAAAAJ&hl=en)**
+Explore my published work on [Google Scholar](https://scholar.google.com/citations?user=AdNVyPgAAAAJ&hl=en).
 
 ---
 
 <div align="center">
 
-### 📊 Contribution Activity
+### Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehreen1103&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="90%"/>
+
+<br/><br/>
+
+### Contribution Grid
+<img src="https://raw.githubusercontent.com/Mehreen1103/Mehreen1103/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
