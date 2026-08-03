@@ -113,56 +113,6 @@ open_to:
 
 </div>
 
-## Featured Projects
-
-<details open>
-<summary><b>AI Video Dubbing Pipeline — Eagle3D Streaming</b></summary>
-<br/>
-
-An end-to-end, FastAPI-driven AI video dubbing pipeline built in production, combining Whisper transcription with F5-TTS synthesis.
-
-| | |
-|---|---|
-| **Stack** | FastAPI, Whisper, F5-TTS, FFmpeg, LangGraph, Claude API |
-| **Reliability** | GPU semaphores serializing workloads for 99.9% pipeline uptime under heavy concurrent load; race conditions resolved, silent exception swallowing eliminated, circuit breaker pattern added to reduce synthesis failure cascades |
-| **Quality** | Self-correcting LLM feedback loop that dynamically corrects Whisper hallucinations, cutting manual transcript post-editing time by 40% |
-| **Cost** | Full-stack script-editing and segment re-stitching workflow reducing compute overhead and re-rendering costs by over 80% via targeted per-segment re-synthesis |
-| **Extras** | Automated YouTube SEO feature generating titles, keywords, metadata, and articles from transcriptions via context engineering |
-| **Repository** | `[add repo link]` |
-
-</details>
-
-<details>
-<summary><b>NL2MQL — Natural Language to MongoDB Query Engine</b></summary>
-<br/>
-
-A custom Model Context Protocol (MCP) server paired with LangGraph, enabling local Ollama models to execute MongoDB queries from natural language.
-
-| | |
-|---|---|
-| **Stack** | MCP server, LangGraph, Ollama (Gemma 4), MongoDB |
-| **Architecture** | Custom MCP tooling exposing schema-safe query execution to a local LLM |
-| **Safety** | Zero schema data-bleed by design |
-| **Repository** | `[add repo link]` |
-
-</details>
-
-<details>
-<summary><b>Hallucination Detection in Bangla LLM Output — Thesis</b></summary>
-<br/>
-
-A hybrid framework combining uncertainty quantification with an LLM-as-judge and a meta-classifier to detect hallucinations in LLM-generated Bangla text.
-
-| | |
-|---|---|
-| **Stack** | LaBSE, XLM-RoBERTa/XNLI, BanglaT5, fine-tuned Qwen2.5-7B-Instruct, XGBoost |
-| **Dataset** | Synthetic Wikipedia-derived and translated HaluEval branches |
-| **Result** | ~96.5% accuracy via UQ features combined with a Platt-scaled meta-classifier |
-| **Benchmarking** | Multi-classifier comparison (XGBoost, TabNet, SAINT, TabPFN) and multi-judge evaluation (Qwen, LLaMA, Mistral, DeepSeek, TigerLLM) |
-| **Output** | Co-authored survey accepted at ICECTE 2026 (IEEE) |
-| **Repository** | `[add repo link]` |
-
-</details>
 
 <details>
 <summary><b>Customer Support Agent</b></summary>
@@ -229,14 +179,6 @@ An end-to-end ML pipeline predicting telecom customer churn, served in real time
 
 </div>
 
-## Education
-
-| Institution | Program | Period |
-|---|---|---|
-| Chittagong University of Engineering & Technology | BSc in CSE | 2020 – 2026 |
-| Holy Cross College | Higher Secondary Certificate | 2018 – 2020 |
-
-<div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -267,7 +209,6 @@ An end-to-end ML pipeline predicting telecom customer churn, served in real time
 | Finalist — Intra CUET Machine Learning Contest (IEEE CS CUET) | Built a Bangla physics MCQ question-answering system using LLMs for concept-based reasoning |
 | 6th Place — Misogyny Meme Detection (LDK Competition) | Applied multimodal deep learning for automated content moderation in an international competition |
 | First Runners-up — ASME Efx Environmental Case Competition | 2nd place internationally, presenting a sustainability solution before a panel of global industry experts and academics |
-| Hackathon Judge — CuraAI submission | Mapped evaluation findings to a scoring rubric and flagged inconsistencies between the model card and codebase |
 
 </div>
 
