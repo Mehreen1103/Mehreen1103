@@ -36,8 +36,7 @@
 
 AI Research Engineer and CSE graduate with hands-on production experience building generative AI systems that improve business processes and operational efficiency: RAG pipelines, LLM-based agents, and multimodal AI applications.
 
-I design and ship end-to-end AI pipelines using LangChain, LangGraph, and FastAPI, serving open-source LLMs (DeepSeek, LLaMA, Qwen, Gemma) via Ollama — from schema discovery and prompt engineering through responsible AI practices, production hardening, and deployment. I'm comfortable integrating AI solutions with APIs, databases, and enterprise applications, and I've solved 900+ competitive programming problems along the way.
-
+I design and ship end-to-end AI pipelines using LangChain, LangGraph, and FastAPI, serving open-source LLMs (DeepSeek, LLaMA, Qwen, Gemma) via Ollama — from schema discovery and prompt engineering through responsible AI practices, production hardening, and deployment. I'm comfortable integrating AI solutions with APIs, databases, and enterprise applications.
 ```yaml
 focus:
   generative_ai: [RAG pipelines, LLM agents (LangGraph), fine-tuning (QLoRA/Unsloth), hallucination mitigation]
