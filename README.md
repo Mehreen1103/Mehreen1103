@@ -62,7 +62,7 @@ Explore my published work on [Google Scholar](https://scholar.google.com/citatio
 <div align="center">
 
 ### Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehreen1103&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mehreen1103&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF" width="90%"/>
 
 <br/><br/>
 
